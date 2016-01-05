@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Used in app/Sample Device Admin -->
+    <string-array name="password_qualities">
+        <item>Unspecified</item>
+        <item>Something</item>
+        <item>Numeric</item>
+        <item>Numeric(Complex)</item>
+        <item>Alphabetic</item>
+        <item>Alphanumeric</item>
+        <item>Complex</item>
+    </string-array>
+</resources>
